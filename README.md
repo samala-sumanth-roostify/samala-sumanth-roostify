@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samala-sumanth-roostify
-- 👀 I’m interested in new tech, give me new concepts, skills whatever, i'll poke my finger.
+- 👀 I’m interested in new tech, give me new concepts, skills.
 - 🌱 I’m currently learning Photoshop & Kotlin in my free time
 - 💞️ I’m looking to collaborate on any open resources projects
 - 📫 How to reach me on +91 8870021737 / ssumanth@roostify.com
